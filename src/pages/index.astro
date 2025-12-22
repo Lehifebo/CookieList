@@ -1,11 +1,17 @@
----
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 ---
+import RecipeCard from "../components/RecipeCard.astro";
+import recipes from "../data/recipes.json";
+const items = recipes;
+---
+<section class="grid">
+  {items.map(r => <RecipeCard recipe={r} />)}
+</section>
 
-<Layout>
-	<Welcome />
-</Layout>
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 18px; /* slightly larger gap since cards have borders now */
+  }
+</style>
