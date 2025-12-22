@@ -5,12 +5,14 @@ interface Recipe {
   title: string;
   image: string;         // e.g. "/cookies/chocolate-chip.jpg"
   vegan: boolean;        // or change to string and adapt (see note below)
+  price: string;
   description: string;
   ingredients: string[];
 }
 
 const { recipe } = Astro.props as { recipe: Recipe };
 ---
+
 
 <article class="card" aria-label={`Recipe card: ${recipe.title}`}>
   <div class="thumb">
@@ -20,7 +22,7 @@ const { recipe } = Astro.props as { recipe: Recipe };
       loading="lazy"
       decoding="async"
     />
-    {recipe.vegan && <span class="badge" aria-label="Vegan">VEGAN</span>}
+    {recipe.vegan && <span class="badge" aria-label="Vegan">De post</span>}
   </div>
 
   <header class="header">
@@ -28,6 +30,10 @@ const { recipe } = Astro.props as { recipe: Recipe };
   </header>
 
   <p class="desc">{recipe.description}</p>
+
+  {recipe.price && (
+    <p class="price"><strong>Pret:</strong> {recipe.price}</p>
+  )}
 </article>
 
 <style>
@@ -82,9 +88,10 @@ const { recipe } = Astro.props as { recipe: Recipe };
     height: 100%;
     object-fit: cover;
     display: block;
+    transform: scale(1.15); 
     transition: transform .25s ease;
   }
-  .card:hover .thumb img { transform: scale(1.02); }
+  .card:hover .thumb img { transform: scale(1.30); }
 
   .badge {
     position: absolute;
@@ -119,4 +126,16 @@ const { recipe } = Astro.props as { recipe: Recipe };
     overflow: hidden;
     min-height: 3.9em;               /* reserve space so cards align nicely */
   }
+
+
+  .price {
+    display: inline-block;
+    background: #ffe5a3;
+    padding: 0.3rem 0.6rem;
+    border-radius: 6px;
+    font-weight: 600;
+    margin-top: 0.5rem;
+    color: #5a3d00;
+  }
+
 </style>

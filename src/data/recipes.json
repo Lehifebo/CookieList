@@ -1,11 +1,137 @@
-
 [
+    {
+    "slug": "rulada-de-napolitana",
+    "title": "Rulada de napolitana",
+    "image": "/cookies/rulada-de-napolitana.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "tavalita-cu-cocos",
+    "title": "Tavalita cu cocos",
+    "image": "/cookies/tavalita-cu-cocos.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "prajitura-tosca",
+    "title": "Prajitura tosca",
+    "image": "/cookies/prajitura-tosca.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "60 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "prajitura-cu-bulion",
+    "title": "Prajitura cu foi cu suc de rosii",
+    "image": "/cookies/prajitura-cu-bulion.jpg",
+    "description": "Prajitura buna",
+    "vegan": true,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "prajitura-crema-lamaie-cocos",
+    "title": "Prajitura cu crema de lamaie si cocos",
+    "image": "/cookies/prajitura-crema-lamaie-cocos.jpeg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "40 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+      {
+    "slug": "mini-eclere",
+    "title": "Mini eclere",
+    "image": "/cookies/mini-eclere.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "60 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
   {
-    "slug": "chocolate-chip-cookie",
-    "title": "Classic Chocolate Chip Cookies",
-    "image": "/cookies/chocolate-chip-cookie.jpg",
+    "slug": "prajitura-mirinda",
+    "title": "Prajitura 'Mirinda'",
+    "image": "/cookies/prajitura-mirinda.jpg",
     "description": "Prajitura buna",
-    "vegan": "No",
+    "vegan": false,
+    "price": "60 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+  {
+    "slug": "rulada-biscuiti-cu-cocos",
+    "title": "Rulada de biscuiti cu cocos",
+    "image": "/cookies/rulada-biscuiti-cu-cocos.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "40 Lei/Kg",
     "ingredients": [
       "200g flour",
       "120g butter",
@@ -18,11 +144,12 @@
     ]
   },
     {
-    "slug": "chocolate-chip-cookie",
-    "title": "Classic Chocolate Chip Cookies",
-    "image": "/cookies/chocolate-chip-cookie.jpg",
+    "slug": "prajitura-televizor",
+    "title": "Prajitura televizor",
+    "image": "/cookies/prajitura-televizor.jpg",
     "description": "Prajitura buna",
-    "vegan": "No",
+    "vegan": false,
+    "price": "50 Lei/Kg",
     "ingredients": [
       "200g flour",
       "120g butter",
@@ -35,11 +162,30 @@
     ]
   },
     {
-    "slug": "chocolate-chip-cookie",
-    "title": "Classic Chocolate Chip Cookies",
-    "image": "/cookies/chocolate-chip-cookie.jpg",
+    "slug": "chec",
+    "title": "Chec",
+    "image": "/cookies/chec.jpg",
     "description": "Prajitura buna",
-    "vegan": "No",
+    "vegan": false,
+    "price": "40 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+  {
+    "slug": "kinder-felie-de-lapte",
+    "title": "Kinder felie de lapte",
+    "image": "/cookies/kinder-felie-de-lapte.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "65 Lei/Kg",
     "ingredients": [
       "200g flour",
       "120g butter",
@@ -52,11 +198,12 @@
     ]
   },
     {
-    "slug": "chocolate-chip-cookie",
-    "title": "Classic Chocolate Chip Cookies",
-    "image": "/cookies/chocolate-chip-cookie.jpg",
+    "slug": "salam-de-biscuiti",
+    "title": "Salam de biscuiti",
+    "image": "/cookies/salam-de-biscuiti.jpg",
     "description": "Prajitura buna",
-    "vegan": "No",
+    "vegan": false,
+    "price": "40 Lei/Kg",
     "ingredients": [
       "200g flour",
       "120g butter",
@@ -69,11 +216,299 @@
     ]
   },
     {
-    "slug": "chocolate-chip-cookie",
-    "title": "Classic Chocolate Chip Cookies",
-    "image": "/cookies/chocolate-chip-cookie.jpg",
+    "slug": "tort-diplomat",
+    "title": "Tort diplomat",
+    "image": "/cookies/tort-diplomat.jpg",
     "description": "Prajitura buna",
-    "vegan": "No",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "tort-sacher",
+    "title": "Tort sacher",
+    "image": "/cookies/tort-sacher.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "60 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "cornet-cu-crema-cafea",
+    "title": "Cornete cu crema de cafea",
+    "image": "/cookies/cornet-cu-crema-cafea.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "prajitura-parfe",
+    "title": "Parfe",
+    "image": "/cookies/prajitura-parfe.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "greta-garbo",
+    "title": "Greta Garbo",
+    "image": "/cookies/greta-garbo.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "alcazare",
+    "title": "Alcazare",
+    "image": "/cookies/alcazare.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },{
+    "slug": "negresa",
+    "title": "Negresa",
+    "image": "/cookies/negresa.jpg",
+    "description": "Prajitura buna",
+    "vegan": true,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "briose-iaurt",
+    "title": "Briose cu iaurt si miere",
+    "image": "/cookies/briose-iaurt.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+  {
+    "slug": "cremsnit",
+    "title": "Cremsnit",
+    "image": "/cookies/cremsnit.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "fursecuri-untura",
+    "title": "Fursecuri cu untura",
+    "image": "/cookies/fursecuri-untura.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "fursecuri-ulei",
+    "title": "Fursecuri cu ulei",
+    "image": "/cookies/fursecuri-ulei.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "prajitura-snickers",
+    "title": "Prajitura snickers",
+    "image": "/cookies/prajitura-snickers.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "prajitura-glazura",
+    "title": "Prajitura cu glazura",
+    "image": "/cookies/prajitura-glazura.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "prajitura-branza-vaci",
+    "title": "Prajitura cu branza de vaci",
+    "image": "/cookies/prajitura-branza-vaci.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "prajitura-foi-lica",
+    "title": "Prajitura cu foi lica",
+    "image": "/cookies/prajitura-foi-lica.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+  {
+    "slug": "placinta-mere",
+    "title": "Placinta cu mere",
+    "image": "/cookies/placinta-mere.jpg",
+    "description": "Prajitura buna",
+    "vegan": true,
+    "price": "50 Lei/Kg",
+    "ingredients": [
+      "200g flour",
+      "120g butter",
+      "100g brown sugar",
+      "100g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "Pinch of salt"
+    ]
+  },
+    {
+    "slug": "bomboane-raffaelo",
+    "title": "Bomboane raffaello",
+    "image": "/cookies/bomboane-raffaelo.jpg",
+    "description": "Prajitura buna",
+    "vegan": false,
+    "price": "50 Lei/Kg",
     "ingredients": [
       "200g flour",
       "120g butter",
@@ -85,4 +520,5 @@
       "Pinch of salt"
     ]
   }
+
 ]
