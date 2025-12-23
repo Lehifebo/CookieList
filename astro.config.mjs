@@ -3,6 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://lehifebo.github.io',
-    base: '/CookieList',
+    site: 'prajiturigeta.org',
+    base: '/',
 });
