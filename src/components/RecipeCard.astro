@@ -17,7 +17,7 @@ const { recipe } = Astro.props as { recipe: Recipe };
 <article class="card" aria-label={`Recipe card: ${recipe.title}`}>
   <div class="thumb">
     <img
-      src={`${import.meta.env.BASE_URL}${recipe.image}`}
+      src={`${recipe.image}`}
       alt={recipe.title}
       loading="lazy"
       decoding="async"
